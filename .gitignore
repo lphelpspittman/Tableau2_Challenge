@@ -1,3 +1,10 @@
+# ignore large csv files for Tableau Challenge
+201901-citibike-tripdata2.csv
+201902-citibike-tripdata2.csv
+
+# ignore smaller sample of citibike csv files
+citi_bike_2019_frac_25.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
