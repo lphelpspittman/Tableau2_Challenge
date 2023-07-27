@@ -33,3 +33,11 @@ Your task in this assignment is to aggregate the data found in the Citi Bike Tri
 
 
 My Analysis:
+
+![CitiBikeSS1](https://github.com/lphelpspittman/Tableau2_Challenge/assets/127759770/bc65bb92-088f-4db6-8e70-f73ad98b2359)
+![CitiBikeSS2](https://github.com/lphelpspittman/Tableau2_Challenge/assets/127759770/b2df2bad-d401-46f7-b919-4ba6f483cf59)
+![CitiBikeSS3](https://github.com/lphelpspittman/Tableau2_Challenge/assets/127759770/55413b06-cd5a-4a0f-8a6d-1529adc6e080)
+![CitiBikeSS4](https://github.com/lphelpspittman/Tableau2_Challenge/assets/127759770/5e055b8b-3afb-4dc3-bace-f8eb900fe593)
+
+
+
