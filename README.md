@@ -1,4 +1,4 @@
-# Tableau2_Challenge
+# **Tableau2_Challenge**
 
 Background
 
@@ -8,7 +8,7 @@ Since 2013, the Citi Bike program has implemented a robust infrastructure for co
 
 However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have questions about the program, so your first task on the job is to build a set of data reports to provide the answers.
 
-### Instructions
+## **Instructions**
 
 Your task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.
 
@@ -32,7 +32,7 @@ Your task in this assignment is to aggregate the data found in the Citi Bike Tri
 
 
 
-My Analysis:
+## **My Analysis:**
 
 ![CitiBikeSS1](https://github.com/lphelpspittman/Tableau2_Challenge/assets/127759770/bc65bb92-088f-4db6-8e70-f73ad98b2359)
 
